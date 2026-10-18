@@ -1,6 +1,6 @@
 # Otel Rezervasyon ve Konaklama Yönetim Sistemi
 
-Bu proje, Karadeniz Teknik Üniversitesi Veritabanı Yönetim Sistemleri dersi kapsamında geliştirilen kapsamlı bir otel otomasyon sistemidir.
+Karadeniz Teknik Üniversitesi Veritabanı Yönetimi dersi kapsamında geliştirilen kapsamlı bir otel otomasyon sistemidir.
 
 ## 👥 Proje Ekibi
 * İbrahim Toprak Uluç
