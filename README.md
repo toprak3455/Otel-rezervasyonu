@@ -11,8 +11,7 @@ Karadeniz Teknik Üniversitesi Veritabanı Yönetimi dersi kapsamında geliştir
 * **Backend:** Java (Spring Boot)
 * **Tasarım Aracı:** MySQL Workbench
 
-## 🗄️ Veritabanı Tabloları (Aşama 1)
-Projenin veritabanı mimarisi en az 3NF normalizasyon kurallarına uygun olarak tasarlanmış olup aşağıdaki 13 tablodan oluşmaktadır:
+## 🗄️ Veritabanı Tabloları 
 
 1. **OdaTipi:** Oteldeki oda kategorilerini (standart, suit vb.), kapasite ve temel fiyatlarını tutar.
 2. **Oda:** Oteldeki fiziksel odaları, kat bilgilerini ve anlık durumlarını (boş, dolu vb.) belirtir.
