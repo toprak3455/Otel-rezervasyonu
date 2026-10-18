@@ -3,8 +3,8 @@
 Karadeniz Teknik Üniversitesi Veritabanı Yönetimi dersi kapsamında geliştirilen kapsamlı bir otel otomasyon sistemidir.
 
 ## 👥 Proje Ekibi
-* İbrahim Toprak Uluç
-* Mert Çiçek
+* İbrahim Toprak Uluç-455145
+* Mert Çiçek-455097
 
 ## 🛠️ Kullanılan Teknolojiler
 * **Veritabanı:** MySQL (Server 8.0.46)
